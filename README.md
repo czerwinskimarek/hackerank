@@ -1,2 +1,2 @@
 # hackerank
-This repository contains hacker rank solutions.
+This repository contains my hacker rank solutions.
